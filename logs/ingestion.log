@@ -1,0 +1,4 @@
+2026-08-17 10:02:51 [INFO] [ingestion]: Connecting to SSE stream: https://stream.wikimedia.org/v2/stream/recentchange
+2026-08-17 10:02:57 [INFO] [ingestion]: Batch completed with 20 records.
+2026-08-17 17:56:11 [INFO] [ingestion]: Connecting to SSE stream: https://stream.wikimedia.org/v2/stream/recentchange
+2026-08-17 17:56:15 [INFO] [ingestion]: Batch completed with 20 records.
